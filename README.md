@@ -62,6 +62,8 @@ Steps:
 ---
 ### TABULATION
 ![WhatsApp Image 2026-02-25 at 10 20 20 AM](https://github.com/user-attachments/assets/faae4b4b-5bd3-41fc-8c6d-862f8cf6bc90)
+## GRAPH
+<img width="970" height="736" alt="3" src="https://github.com/user-attachments/assets/2089fc70-7488-49cf-a5d2-a139f6fc3e74" />
 
 ## Report
 Your report should include:
