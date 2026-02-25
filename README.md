@@ -60,14 +60,18 @@ Steps:
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
 ---
+### TABULATION
+![WhatsApp Image 2026-02-25 at 10 20 20 AM](https://github.com/user-attachments/assets/faae4b4b-5bd3-41fc-8c6d-862f8cf6bc90)
 
 ## Report
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
-- Screenshots or displays of simulation results:  
-  - Power readings  
-  - BER analyzer output  
-  - Eye diagram  
+- Screenshots or displays of simulation results:
+- Power readings  
+- BER analyzer output  
+- Eye diagram  
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## RESULT
+The simulation result closely matched the analysis value with only minor variation due to filter bandwidth and numerical effects confirming the theoretical receiver sensitivity 
